@@ -16,9 +16,9 @@ const ProjectList = () => (
   >
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 1"
+        name="Projet 1 {{ Go ! }}"
         description="Je vous présente un site de streaming codé en langage PHP avec le framework Symfony et Bootstrap pour le design."
-        link="/"
+        link="https://watch.wave.video/bmVE3uuWlu7NT79E"
         img={{
           src: '/assets/images/project-web-design.png',
           alt: 'Project Web Design',
@@ -36,9 +36,9 @@ const ProjectList = () => (
 
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 2"
+        name="Projet 2 {{ Go ! }}"
         description="Je vous présente un site avec des recettes de cuisine codé en langage Javascript avec le framework React."
-        link="/"
+        link="https://watch.wave.video/iYUCjnqjeVHmB0Oo"
         img={{
           src: '/assets/images/project-web-design.png',
           alt: 'Project Web Design',
