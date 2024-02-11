@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title:  Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 2020-02-05T00:00:00Z
-imgSrc: '/assets/images/image-post2.jpeg'
+title: Recettes
+description: Je vous présente un site avec des recettes de cuisine codé en langage Javascript avec le framework React.
+pubDate: 01/02/2024
+imgSrc: '/assets/images/recettes1.png'
 imgAlt: 'Image post 2'
 ---
 

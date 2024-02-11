@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
 title: AZA-FLIX 
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+description: Je vous présente un site de streaming codé en langage PHP avec le framework Symfony et Bootstrap pour le design.
 pubDate: 01/11/2024
-imgSrc: '/assets/images/image-post.jpeg'
+imgSrc: '/assets/images/azaflix.png'
 imgAlt: 'Image post'
 ---
 
