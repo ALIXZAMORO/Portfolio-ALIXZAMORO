@@ -16,7 +16,7 @@ const ProjectList = () => (
   >
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 1 {{ Go ! }}"
+        name="Projet 1 {{ Ici :D }}"
         description="Je vous présente un site de streaming codé en langage PHP avec le framework Symfony et Bootstrap pour le design."
         link="https://watch.wave.video/bmVE3uuWlu7NT79E"
         img={{
@@ -33,10 +33,10 @@ const ProjectList = () => (
         }
       />
     </div>
-
+    <br></br>
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 2 {{ Go ! }}"
+        name="Projet 2 {{ Ici :D }}"
         description="Je vous présente un site avec des recettes de cuisine codé en langage Javascript avec le framework React."
         link="https://watch.wave.video/iYUCjnqjeVHmB0Oo"
         img={{
@@ -48,6 +48,26 @@ const ProjectList = () => (
             <Tags color={ColorTags.FUCHSIA}>Javascript</Tags>
             <Tags color={ColorTags.LIME}>React</Tags>
             <Tags color={ColorTags.SKY}>CSS/SCSS</Tags>
+            <Tags color={ColorTags.ROSE}>HTML</Tags>
+          </>
+        }
+      />
+    </div>
+<br></br>
+    <div className="flex flex-col gap-6">
+      <Project
+        name="Projet 3 {{ Ici :D }}"
+        description="Je vous présente un site avec des recettes de cuisine codé en langage Javascript avec le framework React."
+        link="https://watch.wave.video/pyGF9Y3ZHBo4vfnB"
+        img={{
+          src: '/assets/images/project-web-design.png',
+          alt: 'Project Web Design',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.FUCHSIA}>PHP</Tags>
+            <Tags color={ColorTags.LIME}>Bootstrap</Tags>
+            <Tags color={ColorTags.SKY}>CSS</Tags>
             <Tags color={ColorTags.ROSE}>HTML</Tags>
           </>
         }

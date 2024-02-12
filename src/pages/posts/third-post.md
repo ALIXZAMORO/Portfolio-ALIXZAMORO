@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
+title: NatureWebSIte
+description: Ce site a été codé avec le langage PHP et Bootstrap pour le design.
 pubDate: 12/15/2023
-imgSrc: '/assets/images/E-commerce.jpg'
+imgSrc: '/assets/images/NatureWebSite.png'
 imgAlt: 'Image post 4'
 ---
 
