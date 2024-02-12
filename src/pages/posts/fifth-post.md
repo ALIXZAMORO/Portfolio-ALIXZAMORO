@@ -7,4 +7,4 @@ imgSrc: '/assets/images/recettes.png'
 imgAlt: 'Image post 2'
 ---
 
-Full typography example at [this page](../sixth-post/).
+

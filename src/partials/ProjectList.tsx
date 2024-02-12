@@ -73,6 +73,26 @@ const ProjectList = () => (
         }
       />
     </div>
+
+    <br></br>
+    <div className="flex flex-col gap-6">
+      <Project
+        name="Projet 4 {{ Ici :D }}"
+        description="Ce mini site a été codé avec le langage Javascript."
+        link="https://dj-soundbar-alixzamoro.netlify.app/"
+        img={{
+          src: '/assets/images/project-web-design.png',
+          alt: 'Project Web Design',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.FUCHSIA}>Javascript</Tags>
+            <Tags color={ColorTags.LIME}>HTML</Tags>
+            <Tags color={ColorTags.SKY}>CSS</Tags>
+          </>
+        }
+      />
+    </div>
   </Section>
 );
 
