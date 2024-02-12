@@ -99,7 +99,7 @@ const ProjectList = () => (
       <Project
         name="Projet 5 {{ Ici :D }}"
         description="Ce mini site a été codé avec le langage Javascript."
-        link="https://65ca731839471100966d735a--musical-mooncake-b66bd5.netlify.app/"
+        link="https://azapub.netlify.app/"
         img={{
           src: '/assets/images/project-web-design.png',
           alt: 'Project Web Design',
