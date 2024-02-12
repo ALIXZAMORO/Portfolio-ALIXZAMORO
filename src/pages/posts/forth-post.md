@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 06/12/2022
-imgSrc: '/assets/images/logistique.jpg'
+title: aza-pub
+description: Écrivez le message de publicité que vous voulez ;) .
+pubDate: 08/28/2023
+imgSrc: '/assets/images/aza-pub.png'
 imgAlt: 'Image post 3'
 ---
 
