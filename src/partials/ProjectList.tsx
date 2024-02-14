@@ -38,7 +38,7 @@ const ProjectList = () => (
       <Project
         name="Projet 2 {{ Ici :D }}"
         description="Je vous présente un site avec des recettes de cuisine codé en langage Javascript avec le framework React."
-        link="https://watch.wave.video/iYUCjnqjeVHmB0Oo"
+        link="https://watch.wave.video/8rGj3Z6CWWU0thEI"
         img={{
           src: '/assets/images/project-web-design.png',
           alt: 'Project Web Design',
