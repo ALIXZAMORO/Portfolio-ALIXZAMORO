@@ -16,7 +16,7 @@ const ProjectList = () => (
   >
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 1 {{ Ici :D }}"
+        name="Projet 1 {{ AZA-FLIX }}"
         description="Je vous présente un site de streaming codé en langage PHP avec le framework Symfony et Bootstrap pour le design."
         link="https://watch.wave.video/bmVE3uuWlu7NT79E"
         img={{
@@ -37,7 +37,7 @@ const ProjectList = () => (
     <br></br>
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 2 {{ Ici :D }}"
+        name="Projet 2 {{ Aza-Recettes }}"
         description="Je vous présente un site avec des recettes de cuisine codé en langage Javascript avec le framework React."
         link="https://watch.wave.video/8rGj3Z6CWWU0thEI"
         img={{
@@ -59,7 +59,7 @@ const ProjectList = () => (
     <br></br>
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 3 {{ Ici :D }}"
+        name="Projet 3 {{ Ajout d'une tâche }}"
         description="Ce site consiste à ajouter des tâches, afin de s'organiser au quotidien, il a été codé en langage PHP."
         link="https://watch.wave.video/Bu28M53DfoYgJGaq"
         img={{
@@ -80,7 +80,7 @@ const ProjectList = () => (
 <br></br>
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 4 {{ Ici :D }}"
+        name="Projet 4 {{ NatureWebSite }}"
         description="Je vous présente un site de publication des plus grands arbres au monde et codé en langage PHP."
         link="https://watch.wave.video/3QztOPkhxMDozTOL"
         img={{
@@ -101,7 +101,7 @@ const ProjectList = () => (
     <br></br>
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 5 {{ Ici :D }}"
+        name="Projet 5 {{ Dj-soundbar }}"
         description="Ce mini site a été codé avec le langage Javascript."
         link="https://dj-soundbar-alixzamoro.netlify.app/"
         img={{
@@ -121,7 +121,7 @@ const ProjectList = () => (
     <br></br>
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 6 {{ Ici :D }}"
+        name="Projet 6 {{ aza-pub }}"
         description="Ce mini site a été codé avec le langage Javascript."
         link="https://azapub.netlify.app/"
         img={{
