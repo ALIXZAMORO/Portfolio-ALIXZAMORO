@@ -29,6 +29,7 @@ const ProjectList = () => (
             <Tags color={ColorTags.LIME}>Symfony</Tags>
             <Tags color={ColorTags.SKY}>Twig</Tags>
             <Tags color={ColorTags.ROSE}>Bootstrap</Tags>
+            <Tags color={ColorTags.YELLOW}>Adminer/phpMyAdmin</Tags>
           </>
         }
       />
@@ -49,14 +50,37 @@ const ProjectList = () => (
             <Tags color={ColorTags.LIME}>React</Tags>
             <Tags color={ColorTags.SKY}>CSS/SCSS</Tags>
             <Tags color={ColorTags.ROSE}>HTML</Tags>
+            
           </>
         }
       />
     </div>
-<br></br>
+
+    <br></br>
     <div className="flex flex-col gap-6">
       <Project
         name="Projet 3 {{ Ici :D }}"
+        description="Ce site consiste à ajouter des tâches, afin de s'organiser au quotidien, il a été codé en langage PHP."
+        link="https://watch.wave.video/Bu28M53DfoYgJGaq"
+        img={{
+          src: '/assets/images/project-web-design.png',
+          alt: 'Project Web Design',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.FUCHSIA}>PHP</Tags>
+            <Tags color={ColorTags.LIME}>HTML</Tags>
+            <Tags color={ColorTags.SKY}>CSS</Tags>
+            <Tags color={ColorTags.YELLOW}>Adminer/phpMyAdmin</Tags>
+          </>
+        }
+      />
+    </div>
+
+<br></br>
+    <div className="flex flex-col gap-6">
+      <Project
+        name="Projet 4 {{ Ici :D }}"
         description="Je vous présente un site de publication des plus grands arbres au monde et codé en langage PHP."
         link="https://watch.wave.video/3QztOPkhxMDozTOL"
         img={{
@@ -77,7 +101,7 @@ const ProjectList = () => (
     <br></br>
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 4 {{ Ici :D }}"
+        name="Projet 5 {{ Ici :D }}"
         description="Ce mini site a été codé avec le langage Javascript."
         link="https://dj-soundbar-alixzamoro.netlify.app/"
         img={{
@@ -97,7 +121,7 @@ const ProjectList = () => (
     <br></br>
     <div className="flex flex-col gap-6">
       <Project
-        name="Projet 5 {{ Ici :D }}"
+        name="Projet 6 {{ Ici :D }}"
         description="Ce mini site a été codé avec le langage Javascript."
         link="https://azapub.netlify.app/"
         img={{
@@ -113,6 +137,8 @@ const ProjectList = () => (
         }
       />
     </div>
+
+
   </Section>
 );
 

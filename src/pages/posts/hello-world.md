@@ -1,9 +1,9 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-pubDate: 01/08/2021
-imgSrc: '/assets/images/auto.jpg'
+title: Ajout d'une tâche
+description: Pour s'organiser dans les tâches quotidiennes, c'est assez pratique =}
+pubDate: 11/30/2023
+imgSrc: '/assets/images/ajout-de-tache.png'
 imgAlt: 'Image post 6'
 ---
 
