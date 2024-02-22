@@ -82,7 +82,7 @@ const ProjectList = () => (
       <Project
         name="Projet 4 {{ Ajout d'une tâche }}"
         description="Ce site consiste à ajouter des tâches, afin de s'organiser au quotidien, il a été codé en langage PHP."
-        link="https://watch.wave.video/Bu28M53DfoYgJGaq"
+        link="https://watch.wave.video/dFCBHw2uAnF8gtUq"
         img={{
           src: '/assets/images/project-web-design.png',
           alt: 'Project Web Design',
